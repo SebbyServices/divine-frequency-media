@@ -1,0 +1,42 @@
+name: Social Media Post Scheduler
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'   # every 10 minutes
+  workflow_dispatch:           # manual trigger from GitHub UI
+
+permissions:
+  contents: write              # needed to commit schedule.json updates + delete media files
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15        # Instagram processing can take up to 6 min
+
+    steps:
+      - name: Checkout media repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run post scheduler
+        env:
+          INSTAGRAM_USER_ID:    ${{ secrets.INSTAGRAM_USER_ID }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          THREADS_USER_ID:      ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          GITHUB_TOKEN:         ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/post-due.mjs
+
+      - name: Commit schedule updates
+        run: |
+          git config user.name  "Divine Frequency Bot"
+          git config user.email "bot@divinefrequencyhq.com"
+          git add schedule.json
+          git diff --staged --quiet || git commit -m "chore: update post schedule [skip ci]"
+          git push
