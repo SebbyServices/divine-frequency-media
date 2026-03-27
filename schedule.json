@@ -30,7 +30,9 @@
     "videoFilename": "ep01-reading2-psalm-23-2-3-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading2-psalm-23-2-3-animated.mp4",
     "caption": "Let the soothing sounds and scripture of Psalm 23:2-3 calm your mind and transport you to a place of deep sleep and rest with Divine Frequency HQ.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Psalm2323",
-    "status": "pending"
+    "status": "done",
+    "postedAt": "2026-03-27T05:55:15.241Z",
+    "mediaId": "18104885518704380"
   },
   {
     "id": "ep01-reading2-threads",
@@ -41,7 +43,8 @@
     "videoFilename": "ep01-reading2-psalm-23-2-3-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading2-psalm-23-2-3-animated.mp4",
     "text": "Drift into a peaceful slumber with Divine Frequency HQ, as we meditate on Psalm 23:2-3, guiding you into deep sleep and divine rest.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Psalm2323",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Wednesday, 25-Mar-26 18:00:00 PDT. The current time is Thursday, 26-Mar-26 22:55:15 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AjT2Sr2jsgnFHeOqH104DLD\"}"
   },
   {
     "id": "ep01-reading3-instagram",
