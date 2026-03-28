@@ -55,7 +55,9 @@
     "videoFilename": "ep01-reading3-isaiah-40-31-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading3-isaiah-40-31-animated.mp4",
     "caption": "Relax and let go, knowing that those who hope in the Lord will soar on wings like eagles, even in their sleep\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Isaiah4031",
-    "status": "pending"
+    "status": "done",
+    "postedAt": "2026-03-28T05:17:45.560Z",
+    "mediaId": "18351474118235482"
   },
   {
     "id": "ep01-reading3-threads",
@@ -66,7 +68,8 @@
     "videoFilename": "ep01-reading3-isaiah-40-31-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading3-isaiah-40-31-animated.mp4",
     "text": "Drift off to sleep with soothing music and meditation, trusting in God'\\''s promise to renew your strength as you wait upon Him, as written in Isaiah 40:31\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Isaiah4031",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Friday, 27-Mar-26 22:17:45 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AOgaYSRqj9b_zS1U3zlopu6\"}"
   },
   {
     "id": "ep01-reading4-instagram",
