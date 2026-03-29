@@ -80,7 +80,9 @@
     "videoFilename": "ep01-reading4-romans-8-28-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading4-romans-8-28-animated.mp4",
     "caption": "Sleep peacefully, knowing that God is working everything out for your good. Let the calming music and words of Romans 8:28 lull you into a deep and restful sleep.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Romans828",
-    "status": "pending"
+    "status": "done",
+    "postedAt": "2026-03-29T05:57:10.366Z",
+    "mediaId": "17915851524343829"
   },
   {
     "id": "ep01-reading4-threads",
@@ -91,7 +93,8 @@
     "videoFilename": "ep01-reading4-romans-8-28-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading4-romans-8-28-animated.mp4",
     "text": "Drift off to sleep with soothing music and meditation, trusting that God works all things together for good, as promised in Romans 8:28. Let the calming sounds guide you into deep sleep and divine rest.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Romans828",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Saturday, 28-Mar-26 22:57:10 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AHCAefDcXz_jT9A2ymgoovV\"}"
   },
   {
     "id": "ep01-reading5-instagram",
