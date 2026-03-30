@@ -8,7 +8,9 @@
     "videoFilename": "ep01-reading1-ecclesiastes-3-1-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading1-ecclesiastes-3-1-animated.mp4",
     "caption": "Escape into a peaceful slumber with our sleep music, inspired by the soothing words of Ecclesiastes 3:1, and let the gentle rhythms and calming melodies envelop you in a sense of deep rest and tranquility\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Ecclesiastes31",
-    "status": "pending"
+    "status": "done",
+    "postedAt": "2026-03-30T06:26:50.920Z",
+    "mediaId": "17872569777582283"
   },
   {
     "id": "ep01-reading1-threads",
@@ -19,7 +21,8 @@
     "videoFilename": "ep01-reading1-ecclesiastes-3-1-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading1-ecclesiastes-3-1-animated.mp4",
     "text": "Drift into a deep sleep with Divine Frequency HQ, guided by the wisdom of Ecclesiastes 3:1, reminding us that there is a time for rest and a time for everything, and let the soothing sounds and calming music transport you to a place of divine rest\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Ecclesiastes31",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Sunday, 29-Mar-26 23:26:51 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AmTBSyzEd28sLbhKzRnCSpO\"}"
   },
   {
     "id": "ep01-reading2-instagram",
