@@ -108,7 +108,9 @@
     "videoFilename": "ep01-reading5-philippians-4-7-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading5-philippians-4-7-animated.mp4",
     "caption": "Let the peace of God envelop you as you sleep, guided by the reassuring words of Philippians 4:7\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Philippians47",
-    "status": "pending"
+    "status": "done",
+    "postedAt": "2026-04-05T05:58:55.109Z",
+    "mediaId": "18573984541049994"
   },
   {
     "id": "ep01-reading5-threads",
@@ -119,7 +121,8 @@
     "videoFilename": "ep01-reading5-philippians-4-7-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading5-philippians-4-7-animated.mp4",
     "text": "Drift into a deep sleep as we meditate on Philippians 4:7, and let the peace of God guard your heart and mind, giving you divine rest\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Philippians47",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Saturday, 04-Apr-26 22:58:55 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Ac9V_1Mx3rg9MGoLTyJ69yp\"}"
   },
   {
     "id": "ep01-reading6-instagram",
