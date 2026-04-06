@@ -133,7 +133,9 @@
     "videoFilename": "ep01-reading6-proverbs-3-24-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading6-proverbs-3-24-animated.mp4",
     "caption": "Sleep peacefully, knowing you're in God's care, as Proverbs 3:24 reminds us of His love and protection, filling your heart with calm and rest\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Proverbs324",
-    "status": "pending"
+    "status": "done",
+    "postedAt": "2026-04-06T06:19:52.488Z",
+    "mediaId": "17886843780469138"
   },
   {
     "id": "ep01-reading6-threads",
@@ -144,7 +146,8 @@
     "videoFilename": "ep01-reading6-proverbs-3-24-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading6-proverbs-3-24-animated.mp4",
     "text": "Drift off to sleep with Divine Frequency HQ, guided by Proverbs 3:24, and let the soothing sounds transport you to a place of deep rest and tranquility\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Proverbs324",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Sunday, 05-Apr-26 23:19:52 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Am33TynSH0ZdhL1NfQvtwj0\"}"
   },
   {
     "id": "ep01-reading7-instagram",
@@ -155,7 +158,9 @@
     "videoFilename": "ep01-reading7-psalm-4-8-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading7-psalm-4-8-animated.mp4",
     "caption": "Find peace and tranquility with Divine Frequency HQ as we reflect on Psalm 4:8, and let the calming music and nature sounds help you unwind and prepare for a restful night's sleep.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Psalm48",
-    "status": "pending"
+    "status": "done",
+    "postedAt": "2026-04-06T06:20:31.928Z",
+    "mediaId": "18081468536371218"
   },
   {
     "id": "ep01-reading7-threads",
@@ -166,7 +171,8 @@
     "videoFilename": "ep01-reading7-psalm-4-8-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading7-psalm-4-8-animated.mp4",
     "text": "Drift off to sleep with Divine Frequency HQ as we meditate on Psalm 4:8, '\\''I will both lay me down in peace, and sleep: for thou, Lord, only makest me dwell in safety.'\\'', and let the soothing sounds guide you into a deep and restful slumber.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Psalm48",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Sunday, 05-Apr-26 23:20:31 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"APmbad0IfUPtQ6ArO9SHjam\"}"
   },
   {
     "id": "ep01-reading8-instagram",
