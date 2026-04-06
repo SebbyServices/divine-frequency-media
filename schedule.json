@@ -183,7 +183,9 @@
     "videoFilename": "ep01-reading8-matthew-6-34-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading8-matthew-6-34-animated.mp4",
     "caption": "Sleep peacefully, knowing God's got you, as we reflect on Matthew 6:34 and the promise of divine rest\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Matthew634",
-    "status": "pending"
+    "status": "done",
+    "postedAt": "2026-04-06T14:16:16.955Z",
+    "mediaId": "18114522670664519"
   },
   {
     "id": "ep01-reading8-threads",
@@ -194,6 +196,7 @@
     "videoFilename": "ep01-reading8-matthew-6-34-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading8-matthew-6-34-animated.mp4",
     "text": "Drift into a deep sleep with Divine Frequency HQ, guided by Matthew 6:34, and let God'\\''s presence fill your rest with peace and tranquility\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Matthew634",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Monday, 06-Apr-26 07:16:17 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ArLcnyD-JtatA_ySukTuWPj\"}"
   }
 ]
