@@ -1361,7 +1361,8 @@
     "bankPostId": "tb-m-009",
     "scheduledAt": "2026-04-10T11:00:00.000Z",
     "text": "You were made for more than rushing through the day. \"Be still, and know that I am God\" — Psalm 46:10. Even a moment of stillness before the noise begins changes everything.\n\n#BeStill #Psalm4610 #MorningDevotional #FaithMorning #ChristianContent #BibleVerses #DivineFrequencyHQ",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Friday, 10-Apr-26 07:32:45 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AJYJSNumUrP70vOr6Ys2dD_\"}"
   },
   {
     "id": "tb-fb-morning-2026-04-10",
@@ -1370,7 +1371,8 @@
     "bankPostId": "tb-m-009",
     "scheduledAt": "2026-04-10T11:00:00.000Z",
     "text": "You were made for more than rushing through the day. \"Be still, and know that I am God\" — Psalm 46:10. Even a moment of stillness before the noise begins changes everything.\n\n#BeStill #Psalm4610 #MorningDevotional #FaithMorning #ChristianContent #BibleVerses #DivineFrequencyHQ",
-    "status": "pending"
+    "status": "done",
+    "postedAt": "2026-04-10T14:32:46.181Z"
   },
   {
     "id": "tb-ig-morning-2026-04-10",
@@ -1379,7 +1381,8 @@
     "bankPostId": "tb-m-009",
     "scheduledAt": "2026-04-10T11:00:00.000Z",
     "text": "You were made for more than rushing through the day. \"Be still, and know that I am God\" — Psalm 46:10. Even a moment of stillness before the noise begins changes everything.\n\n#BeStill #Psalm4610 #MorningDevotional #FaithMorning #ChristianContent #BibleVerses #DivineFrequencyHQ",
-    "status": "pending"
+    "status": "done",
+    "postedAt": "2026-04-10T14:32:46.433Z"
   },
   {
     "id": "tb-evening-2026-04-10",
