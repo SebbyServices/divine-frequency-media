@@ -1700,5 +1700,49 @@
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep04-reading8-john-10-27-28.mp4",
     "text": "John 10 : 27-28 — The Lord Is My Shepherd 🙏 #Shorts\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
     "status": "pending"
+  },
+  {
+    "id": "ep04-reading1-instagram",
+    "episode": 4,
+    "segmentId": "reading1",
+    "platform": "instagram",
+    "scheduledAt": "2026-04-14T01:00:00.000Z",
+    "videoFilename": "ep04-reading1-Psalm-23--1-2.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep04-reading1-Psalm-23--1-2.mp4",
+    "caption": "\"Psalm 23 : 1-2\"\n\nRest in Scripture. #ChristianSleep #DivineFrequency\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
+    "status": "pending"
+  },
+  {
+    "id": "ep04-reading1-threads",
+    "episode": 4,
+    "segmentId": "reading1",
+    "platform": "threads",
+    "scheduledAt": "2026-04-14T01:00:00.000Z",
+    "videoFilename": "ep04-reading1-Psalm-23--1-2.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep04-reading1-Psalm-23--1-2.mp4",
+    "text": "Psalm 23 : 1-2 — The Lord Is My Shepherd 🙏 #Shorts\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
+    "status": "pending"
+  },
+  {
+    "id": "ep04-reading3-instagram",
+    "episode": 4,
+    "segmentId": "reading3",
+    "platform": "instagram",
+    "scheduledAt": "2026-04-16T01:00:00.000Z",
+    "videoFilename": "ep04-reading3-John-10--14.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep04-reading3-John-10--14.mp4",
+    "caption": "\"John 10 : 14\"\n\nRest in Scripture. #ChristianSleep #DivineFrequency\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
+    "status": "pending"
+  },
+  {
+    "id": "ep04-reading3-threads",
+    "episode": 4,
+    "segmentId": "reading3",
+    "platform": "threads",
+    "scheduledAt": "2026-04-16T01:00:00.000Z",
+    "videoFilename": "ep04-reading3-John-10--14.mp4",
+    "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep04-reading3-John-10--14.mp4",
+    "text": "John 10 : 14 — The Lord Is My Shepherd 🙏 #Shorts\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
+    "status": "pending"
   }
 ]
