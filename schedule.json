@@ -1483,7 +1483,8 @@
     "bankPostId": "tb-e-010",
     "scheduledAt": "2026-04-11T22:00:00.000Z",
     "text": "Evening is the right time to release control. You held it all day. Now let Him have it. \"Commit your way to the Lord, trust also in Him\" — Psalm 37:5.\n\n#Psalm375 #CommitToGod #EveningPrayer #ChristianEvening #BibleVerses #DivineFrequencyHQ",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Saturday, 11-Apr-26 15:02:01 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Afsa1rc7cgt2vq6MKloHzLd\"}"
   },
   {
     "id": "tb-fb-evening-2026-04-11",
@@ -1492,7 +1493,8 @@
     "bankPostId": "tb-e-010",
     "scheduledAt": "2026-04-11T22:00:00.000Z",
     "text": "Evening is the right time to release control. You held it all day. Now let Him have it. \"Commit your way to the Lord, trust also in Him\" — Psalm 37:5.\n\n#Psalm375 #CommitToGod #EveningPrayer #ChristianEvening #BibleVerses #DivineFrequencyHQ",
-    "status": "pending"
+    "status": "done",
+    "postedAt": "2026-04-11T22:02:01.507Z"
   },
   {
     "id": "tb-ig-evening-2026-04-11",
@@ -1501,7 +1503,8 @@
     "bankPostId": "tb-e-010",
     "scheduledAt": "2026-04-11T22:00:00.000Z",
     "text": "Evening is the right time to release control. You held it all day. Now let Him have it. \"Commit your way to the Lord, trust also in Him\" — Psalm 37:5.\n\n#Psalm375 #CommitToGod #EveningPrayer #ChristianEvening #BibleVerses #DivineFrequencyHQ",
-    "status": "pending"
+    "status": "done",
+    "postedAt": "2026-04-11T22:02:01.508Z"
   },
   {
     "id": "ep03-reading2-threads",
