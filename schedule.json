@@ -1453,7 +1453,8 @@
     "bankPostId": "tb-m-010",
     "scheduledAt": "2026-04-11T11:00:00.000Z",
     "text": "\"The Lord is my light and my salvation; whom shall I fear?\" — Psalm 27:1. You are stepping into a day lit by His presence. Let that be enough.\n\n#HeIsTheLight #Psalm271 #ChristianMorning #MorningDevotional #BibleVerses #DivineFrequencyHQ",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Saturday, 11-Apr-26 04:46:48 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AJv7UF7RHzFF8KuAoT6YpSk\"}"
   },
   {
     "id": "tb-fb-morning-2026-04-11",
@@ -1462,7 +1463,8 @@
     "bankPostId": "tb-m-010",
     "scheduledAt": "2026-04-11T11:00:00.000Z",
     "text": "\"The Lord is my light and my salvation; whom shall I fear?\" — Psalm 27:1. You are stepping into a day lit by His presence. Let that be enough.\n\n#HeIsTheLight #Psalm271 #ChristianMorning #MorningDevotional #BibleVerses #DivineFrequencyHQ",
-    "status": "pending"
+    "status": "done",
+    "postedAt": "2026-04-11T11:46:48.213Z"
   },
   {
     "id": "tb-ig-morning-2026-04-11",
@@ -1471,7 +1473,8 @@
     "bankPostId": "tb-m-010",
     "scheduledAt": "2026-04-11T11:00:00.000Z",
     "text": "\"The Lord is my light and my salvation; whom shall I fear?\" — Psalm 27:1. You are stepping into a day lit by His presence. Let that be enough.\n\n#HeIsTheLight #Psalm271 #ChristianMorning #MorningDevotional #BibleVerses #DivineFrequencyHQ",
-    "status": "pending"
+    "status": "done",
+    "postedAt": "2026-04-11T11:46:48.214Z"
   },
   {
     "id": "tb-evening-2026-04-11",
