@@ -1539,7 +1539,8 @@
     "videoFilename": "ep03-reading4-isaiah-60-19-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep03-reading4-isaiah-60-19-animated.mp4",
     "text": "Isaiah 60 : 19 — He Is The Light 🙏 #Shorts\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Wednesday, 15-Apr-26 23:24:59 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Ay2K3lgbq_p82aJpOoD-BOx\"}"
   },
   {
     "id": "ep03-reading5-threads",
@@ -1618,7 +1619,8 @@
     "videoFilename": "ep03-reading4-isaiah-60-19-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep03-reading4-isaiah-60-19-animated.mp4",
     "caption": "\"Isaiah 60 : 19\"\n\nRest in Scripture. #ChristianSleep #DivineFrequency\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AsIXEd_ufnTcP-zXDCuH_Sk\"}"
   },
   {
     "id": "ep03-reading5-instagram",
@@ -1829,7 +1831,8 @@
     "videoFilename": "ep04-reading3-John-10--14.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep04-reading3-John-10--14.mp4",
     "caption": "\"John 10 : 14\"\n\nRest in Scripture. #ChristianSleep #DivineFrequency\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AWd4lWLCQ5Qy0a4YO58Wi23\"}"
   },
   {
     "id": "ep04-reading3-threads",
@@ -1840,6 +1843,7 @@
     "videoFilename": "ep04-reading3-John-10--14.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep04-reading3-John-10--14.mp4",
     "text": "John 10 : 14 — The Lord Is My Shepherd 🙏 #Shorts\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Wednesday, 15-Apr-26 23:24:59 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A7IabPOAtfwSXu33ehEk58J\"}"
   }
 ]
