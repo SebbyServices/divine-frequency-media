@@ -1563,7 +1563,8 @@
     "videoFilename": "ep03-reading6-matthew-5-14-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep03-reading6-matthew-5-14-animated.mp4",
     "text": "Matthew 5 : 14 — He Is The Light 🙏 #Shorts\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Friday, 17-Apr-26 22:53:59 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AFkkz3iL4y5yA1ktPkkXB-P\"}"
   },
   {
     "id": "ep03-reading7-threads",
@@ -1644,7 +1645,8 @@
     "videoFilename": "ep03-reading6-matthew-5-14-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep03-reading6-matthew-5-14-animated.mp4",
     "caption": "\"Matthew 5 : 14\"\n\nRest in Scripture. #ChristianSleep #DivineFrequency\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AjMvaMh7mxSjOFNCPyIzwZs\"}"
   },
   {
     "id": "ep03-reading7-instagram",
