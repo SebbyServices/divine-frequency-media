@@ -1587,7 +1587,8 @@
     "videoFilename": "ep03-reading8-revelation-22-5-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep03-reading8-revelation-22-5-animated.mp4",
     "text": "Revelation 22 : 5 — He Is The Light 🙏 #Shorts\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Tuesday, 21-Apr-26 23:25:38 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AJ77u26l0rc6esQ9cECchtY\"}"
   },
   {
     "id": "ep03-reading2-instagram",
@@ -1670,7 +1671,8 @@
     "videoFilename": "ep03-reading8-revelation-22-5-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep03-reading8-revelation-22-5-animated.mp4",
     "caption": "\"Revelation 22 : 5\"\n\nRest in Scripture. #ChristianSleep #DivineFrequency\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"A_v6ZkaUu8-SJTF3omcmthj\"}"
   },
   {
     "id": "ep04-reading2-instagram",
