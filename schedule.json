@@ -1731,7 +1731,8 @@
     "videoFilename": "ep04-reading5-psalm-23-3-4.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep04-reading5-psalm-23-3-4.mp4",
     "caption": "\"Psalm 23 : 3-4\"\n\nRest in Scripture. #ChristianSleep #DivineFrequency\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AbEmdOjJUH7Mr-SQZSiOPGJ\"}"
   },
   {
     "id": "ep04-reading5-threads",
@@ -1742,7 +1743,8 @@
     "videoFilename": "ep04-reading5-psalm-23-3-4.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep04-reading5-psalm-23-3-4.mp4",
     "text": "Psalm 23 : 3-4 — The Lord Is My Shepherd 🙏 #Shorts\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Wednesday, 29-Apr-26 21:03:59 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Af_Me_lbPvglg0tb_4pBeIR\"}"
   },
   {
     "id": "ep04-reading6-instagram",
