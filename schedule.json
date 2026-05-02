@@ -1747,7 +1747,8 @@
     "videoFilename": "ep04-reading6-proverbs-3-5-6.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep04-reading6-proverbs-3-5-6.mp4",
     "caption": "\"Proverbs 3 : 5-6\"\n\nRest in Scripture. #ChristianSleep #DivineFrequency\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"Ae6OvZ2iUzs6tM8l7f8GlD9\"}"
   },
   {
     "id": "ep04-reading6-threads",
@@ -1758,7 +1759,8 @@
     "videoFilename": "ep04-reading6-proverbs-3-5-6.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep04-reading6-proverbs-3-5-6.mp4",
     "text": "Proverbs 3 : 5-6 — The Lord Is My Shepherd 🙏 #Shorts\n\n#christian sleep music #bible sleep #scripture sleep #divine frequency #sleep with god",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Friday, 01-May-26 18:16:21 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AvRy_rKIytoRqey4NTLZ0DF\"}"
   },
   {
     "id": "ep04-reading7-instagram",
@@ -1883,7 +1885,8 @@
     "videoFilename": "reading2.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading2.mp4",
     "caption": "Let God's Word carry you to rest tonight. 🌙\n\n\"Matthew 26 : 39\" — Surrender, Trust, Peace. You don't have to carry tomorrow. He already holds it.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #SurrenderTrustPeace #Matthew2639\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #SurrenderTrustPeace #Matthew2639",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AUfzFqF37qGGktrcpzxjEac\"}"
   },
   {
     "id": "ep05-reading2-threads",
@@ -1894,7 +1897,8 @@
     "videoFilename": "reading2.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading2.mp4",
     "text": "Surrender, Trust, Peace — Matthew 26 : 39 | 8-Hour Christian Sleep Music\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #SurrenderTrustPeace #Matthew2639",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Friday, 01-May-26 18:16:22 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ArVDoE7HxPpa1mDwYde8slw\"}"
   },
   {
     "id": "ep05-reading3-instagram",
