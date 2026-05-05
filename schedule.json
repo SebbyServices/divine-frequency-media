@@ -1937,7 +1937,8 @@
     "videoFilename": "reading4.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading4.mp4",
     "caption": "Let God's Word carry you to rest tonight. 🌙\n\n\"Jeremiah 29 : 11\" — Surrender, Trust, Peace. You don't have to carry tomorrow. He already holds it.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #SurrenderTrustPeace #Jeremiah2911\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #SurrenderTrustPeace #Jeremiah2911",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"Axglvh5OjfjxuyY3R77eZhN\"}"
   },
   {
     "id": "ep05-reading4-threads",
@@ -1948,7 +1949,8 @@
     "videoFilename": "reading4.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading4.mp4",
     "text": "Surrender, Trust, Peace — Jeremiah 29 : 11 | 8-Hour Christian Sleep Music\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #SurrenderTrustPeace #Jeremiah2911",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Monday, 04-May-26 18:15:53 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A69HwQx_gMFEUINqzPe2NJ6\"}"
   },
   {
     "id": "ep05-reading5-instagram",
