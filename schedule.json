@@ -1987,7 +1987,8 @@
     "videoFilename": "reading6.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading6.mp4",
     "caption": "Let God's Word carry you to rest tonight. 🌙\n\n\"Psalm 62 : 1\" — Surrender, Trust, Peace. You don't have to carry tomorrow. He already holds it.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #SurrenderTrustPeace #Psalm621\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #SurrenderTrustPeace #Psalm621",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"A8DNQ_IhA8C9ciMrXIg8Bol\"}"
   },
   {
     "id": "ep05-reading6-threads",
@@ -1998,7 +1999,8 @@
     "videoFilename": "reading6.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading6.mp4",
     "text": "Surrender, Trust, Peace — Psalm 62 : 1 | 8-Hour Christian Sleep Music\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #SurrenderTrustPeace #Psalm621",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Wednesday, 06-May-26 18:21:25 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AK2A4TcxgdMMoge4tNeOYkS\"}"
   },
   {
     "id": "ep05-reading7-instagram",
