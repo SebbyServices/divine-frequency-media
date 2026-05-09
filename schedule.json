@@ -2035,7 +2035,8 @@
     "videoFilename": "reading8.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading8.mp4",
     "caption": "Let God's Word carry you to rest tonight. 🌙\n\n\"Romans 15 : 13\" — Surrender, Trust, Peace. You don't have to carry tomorrow. He already holds it.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #SurrenderTrustPeace #Romans1513\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #SurrenderTrustPeace #Romans1513",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"Aj11LkJIRc8LRyzn2NIP5KV\"}"
   },
   {
     "id": "ep05-reading8-threads",
@@ -2046,7 +2047,8 @@
     "videoFilename": "reading8.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading8.mp4",
     "text": "Surrender, Trust, Peace — Romans 15 : 13 | 8-Hour Christian Sleep Music\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #SurrenderTrustPeace #Romans1513",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Friday, 08-May-26 20:59:18 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Aqqr3c3Aua48V7gv5Jfpqcb\"}"
   },
   {
     "id": "ep06-reading2-threads",
@@ -2057,7 +2059,8 @@
     "videoFilename": "reading2.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading2.mp4",
     "text": "Divine Peace, Stillness, Comfort — Psalm 131 : 2 | 8-Hour Christian Sleep Music\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DivinePeaceStillnessComfort #Psalm1312",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Friday, 08-May-26 20:59:19 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AIPPaB0-4Kph1NkG2AeOakB\"}"
   },
   {
     "id": "ep06-reading3-threads",
@@ -2101,7 +2104,8 @@
     "videoFilename": "reading2.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading2.mp4",
     "caption": "Let God's Word carry you to rest tonight. 🌙\n\n\"Psalm 131 : 2\" — Divine Peace, Stillness, Comfort. You don't have to carry tomorrow. He already holds it.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DivinePeaceStillnessComfort #Psalm1312\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DivinePeaceStillnessComfort #Psalm1312",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AmvrpcE2G9A50lpSBce7HSh\"}"
   },
   {
     "id": "ep06-reading3-instagram",
