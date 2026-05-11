@@ -186,7 +186,8 @@
     "videoFilename": "ep01-reading7-psalm-4-8-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading7-psalm-4-8-animated.mp4",
     "caption": "Find peace and tranquility with Divine Frequency HQ as we reflect on Psalm 4:8, and let the calming music and nature sounds help you unwind and prepare for a restful night's sleep.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Psalm48",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AzVzJYQ1lrikVo1W2nAzs-c\"}"
   },
   {
     "id": "ep01-reading7-threads",
@@ -210,7 +211,8 @@
     "videoFilename": "ep01-reading8-matthew-6-34-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep01-reading8-matthew-6-34-animated.mp4",
     "caption": "Sleep peacefully, knowing God's got you, as we reflect on Matthew 6:34 and the promise of divine rest\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DeepSleepDivineRest #Matthew634",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AVBW1roFpFe15vtEw_QrQg5\"}"
   },
   {
     "id": "ep01-reading8-threads",
@@ -338,7 +340,8 @@
     "videoFilename": "ep02-reading6-john-14-27-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep02-reading6-john-14-27-animated.mp4",
     "caption": "Can't sleep? 'Peace I leave with you; my peace I give you. Not as the world gives do I give to you. Do not let your hearts be troubled and do not be afraid.' Jesus' words in John 14:27 remind us that His peace is always available, calming our minds and soothing our souls, even in the still of the night.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #CastYourBurdens #John1427",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AB2M7cBzQ2i4TaoBwAjWWFS\"}"
   },
   {
     "id": "ep02-reading6-threads",
@@ -362,7 +365,8 @@
     "videoFilename": "ep02-reading7-psalm-94-19-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep02-reading7-psalm-94-19-animated.mp4",
     "caption": "Can't sleep? In the multitude of my anxieties within me, Your comforts delight my soul, says Psalm 94:19. This verse reminds us that even when our minds are racing, God's comforts are always available to us, and His peace can calm our anxious hearts, bringing rest to our souls.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #CastYourBurdens #Psalm9419",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AHI8jAkPjWOu0aFyzq2zJiG\"}"
   },
   {
     "id": "ep02-reading7-threads",
@@ -386,7 +390,8 @@
     "videoFilename": "ep02-reading8-2-thessalonians-3-16-animated.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep02-reading8-2-thessalonians-3-16-animated.mp4",
     "caption": "Finding rest tonight? The Lord of peace himself give you peace at all times and in every way, 2 Thessalonians 3:16. As you drift off to sleep, remember that God's peace is always available to you, a constant presence that can calm your mind and soothe your soul.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #CastYourBurdens #2Thessalonians316",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AIfFTZ3H-7G7ZTkC4-YJnN2\"}"
   },
   {
     "id": "ep02-reading8-threads",
@@ -409,8 +414,9 @@
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/ep03-reading1-john-8-12-animated-c.mp4",
     "caption": "Lost in the dark? Jesus said, \"I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.\" When you're struggling to find rest, remember that His light can guide you through even the darkest nights. ✨ Happy Easter 🙏\n\nThe full 8-hour episode is on YouTube — link in bio.\n\n#HappyEaster #EasterSunday #HeIsTheLight #John812 #ChristianSleep #BibleVerses #DivineSleep #SleepWithGod #HealingFrequency #ChristianMusic #FaithSleep #ScriptureSleep",
     "scheduledAt": "2026-05-10T17:34:19.386Z",
-    "status": "pending",
-    "segmentId": "reading1"
+    "status": "failed",
+    "segmentId": "reading1",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AFnIqFbHgrF7DdyWhkdaTlf\"}"
   },
   {
     "id": "ep03-reading1-threads",
@@ -2099,7 +2105,8 @@
     "videoFilename": "reading3.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading3.mp4",
     "text": "Divine Peace, Stillness, Comfort — Exodus 14 : 14 | 8-Hour Christian Sleep Music\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DivinePeaceStillnessComfort #Exodus1414",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Monday, 11-May-26 09:42:59 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ANwMDXIhohauvYzcPdSb8Kk\"}"
   },
   {
     "id": "ep06-reading1-instagram",
@@ -2146,7 +2153,8 @@
     "videoFilename": "reading3.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading3.mp4",
     "caption": "Let God's Word carry you to rest tonight. 🌙\n\n\"Exodus 14 : 14\" — Divine Peace, Stillness, Comfort. You don't have to carry tomorrow. He already holds it.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DivinePeaceStillnessComfort #Exodus1414\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DivinePeaceStillnessComfort #Exodus1414",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AvzLTZ_JblLBHWCD9YN35KT\"}"
   },
   {
     "id": "ep06-reading4-instagram",
