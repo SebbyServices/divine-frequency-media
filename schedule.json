@@ -2071,7 +2071,8 @@
     "videoFilename": "reading3.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading3.mp4",
     "text": "Divine Peace, Stillness, Comfort — Exodus 14 : 14 | 8-Hour Christian Sleep Music\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DivinePeaceStillnessComfort #Exodus1414",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Sunday, 10-May-26 21:20:41 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AnUpGrl5sdGzsg0t48Ws84U\"}"
   },
   {
     "id": "ep06-reading1-instagram",
@@ -2118,7 +2119,8 @@
     "videoFilename": "reading3.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading3.mp4",
     "caption": "Let God's Word carry you to rest tonight. 🌙\n\n\"Exodus 14 : 14\" — Divine Peace, Stillness, Comfort. You don't have to carry tomorrow. He already holds it.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DivinePeaceStillnessComfort #Exodus1414\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DivinePeaceStillnessComfort #Exodus1414",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"ALmfFoPw4o8XK1Kg9ApW9Wc\"}"
   },
   {
     "id": "ep06-reading4-instagram",
