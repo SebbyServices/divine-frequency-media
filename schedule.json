@@ -2189,7 +2189,8 @@
     "videoFilename": "reading5.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading5.mp4",
     "caption": "Let God's Word carry you to rest tonight. 🌙\n\n\"Psalm 37 : 7\" — Divine Peace, Stillness, Comfort. You don't have to carry tomorrow. He already holds it.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DivinePeaceStillnessComfort #Psalm377\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DivinePeaceStillnessComfort #Psalm377",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AF38d5ntXOPNVqcZa8ZW_yO\"}"
   },
   {
     "id": "ep06-reading5-threads",
@@ -2200,7 +2201,8 @@
     "videoFilename": "reading5.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading5.mp4",
     "text": "Divine Peace, Stillness, Comfort — Psalm 37 : 7 | 8-Hour Christian Sleep Music\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #DivinePeaceStillnessComfort #Psalm377",
-    "status": "pending"
+    "status": "failed",
+    "error": "Threads container failed: {\"message\":\"Error validating access token: Session has expired on Friday, 27-Mar-26 16:00:00 PDT. The current time is Tuesday, 12-May-26 18:25:42 PDT.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A1IAI_vUOkHAPePhb8PiB4B\"}"
   },
   {
     "id": "ep06-reading6-instagram",
@@ -2346,7 +2348,8 @@
     "videoFilename": "reading1.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading1.mp4",
     "caption": "Let God's Word carry you to rest tonight. 🌙\n\n\"Romans 15 : 13\" — Hope. You don't have to carry tomorrow. He already holds it.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #Hope #Romans1513\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #Hope #Romans1513",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AgBb1y_XcQgJuT7RYTQ430h\"}"
   },
   {
     "id": "ep07-reading2-instagram",
