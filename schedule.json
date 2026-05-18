@@ -2414,7 +2414,8 @@
     "videoFilename": "reading6.mp4",
     "videoUrl": "https://raw.githubusercontent.com/SebbyServices/divine-frequency-media/main/reading6.mp4",
     "caption": "Let God's Word carry you to rest tonight. 🌙\n\n\"Hebrews 6 : 19\" — Hope. You don't have to carry tomorrow. He already holds it.\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #Hope #Hebrews619\n\n#ChristianSleep #BibleSleep #ScriptureSleep #SleepWithGod #DivineSleep #HealingFrequency #DeepSleep #ChristianMusic #FaithSleep #BibleVerses #Hope #Hebrews619",
-    "status": "pending"
+    "status": "failed",
+    "error": "IG container failed: {\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":460,\"fbtrace_id\":\"AY3nEO6hyE1NBULYHPypnRc\"}"
   },
   {
     "id": "ep07-reading7-instagram",
